@@ -18,7 +18,6 @@ __pycache__/
 .Python
 
 staticfiles/
-tests/
 media/
 build/
 develop-eggs/
