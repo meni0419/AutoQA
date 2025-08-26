@@ -1,0 +1,2 @@
+- Установить зависимости: pip install -r requirements.txt
+- Запуск тестов: pytest -q -m api
